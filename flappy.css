@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #87CEEB; /* Color de cielo */
+}
+
+h1 {
+    color: #fff;
+}
+
+canvas {
+    background-color: #4CAF50; /* Color diferente al de Flappy Bird */
+    border: 2px solid #000;
+}
